@@ -3413,7 +3413,7 @@ class BusinessBot:
                                     except Exception:
                                         # В случае ошибки определения владельца оставляем значение по умолчанию
                                         pass
-
+                                    
                                     deleted_files_info.append({
                                         'type': 'media',
                                         'media_type': media_type,
