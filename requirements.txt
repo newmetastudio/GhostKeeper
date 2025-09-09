@@ -1,0 +1,5 @@
+aiohttp>=3.9.5
+brotli>=1.1.0
+imageio>=2.34.0
+Pillow>=10.3.0
+cryptography>=42.0.0

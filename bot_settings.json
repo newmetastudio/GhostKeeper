@@ -1,0 +1,14 @@
+{
+  "language": "RU",
+  "save_own_deleted": true,
+  "send_media": true,
+  "agreement_accepted": true,
+  "save_foreign": true,
+  "auto_cleanup_enabled": true,
+  "auto_cleanup_days": 0,
+  "waiting_custom_period": false,
+  "auto_cleanup_notifications": true,
+  "auto_cleanup_custom_seconds": 60,
+  "admin_id": 925051239,
+  "last_auto_cleanup": "2025-09-09T14:48:04.651477"
+}
